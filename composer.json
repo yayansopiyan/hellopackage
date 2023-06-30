@@ -1,0 +1,16 @@
+{
+    "name": "atkalab/hellopackage",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Atkalab\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "yayan sopiyan",
+            "email": "yayan.sopiyan@gmail.com"
+        }
+    ],
+    "require": {}
+}
