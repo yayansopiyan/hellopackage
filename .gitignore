@@ -1,0 +1,11 @@
+.buildpath
+.settings/
+.project
+*.patch
+.idea/
+.git/
+vendor/
+.env
+.DS_Store
+.phpunit*
+*.cache
